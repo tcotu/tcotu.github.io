@@ -3,7 +3,7 @@
 
 云服务器云主机评测-虚拟主机评测-主机评测网-专业主机点评网站!      var \_hmt = \_hmt || \[\]; (function() { var hm = document.createElement("script"); hm.src = "//hm.baidu.com/hm.js?5166a9a1f511b67412e0500e93b73970"; var s = document.getElementsByTagName("script")\[0\]; s.parentNode.insertBefore(hm, s); })(); 
 
-[![虚拟主机评测网-最具影响力的虚拟主机评测平台.](/images/logo.gif)](http://www.adminxy.com)
+[![虚拟主机评测网-最具影响力的虚拟主机评测平台.](http://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.com/images/logo.gif)](http://www.adminxy.com)
 
 *   [站长学院](/school "网站运营知识大全")
 *   [常用CMS](/cms "站长常用CMS程序")
@@ -18,9 +18,9 @@
 
 **虚拟主机评测网通告：**请注意分辨评论内容、评论者IP及地址，以免被枪手迷惑。
 
-[![](/images/contribute.gif)](/plus/article_add.asp)
+[![](http://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.com/images/contribute.gif)](/plus/article_add.asp)
 
-[![](/images/rss.gif)](/plus/rss.xml)
+[![](http://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.com/images/rss.gif)](/plus/rss.xml)
 
 主机商    [高级搜索](/search.asp)
 
@@ -48,7 +48,7 @@
 
 [2014企商在线“云计算”与游戏产业高峰沙龙](http://www.adminxy.com/school/industry/999.html)
 
-[![上一条](/images/last.gif)](javascript:rollText(-1); "上一条") [![下一条](/images/next.gif)](javascript:rollText(1); "下一条")
+[![上一条](http://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.com/images/last.gif)](javascript:rollText(-1); "上一条") [![下一条](http://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.com/images/next.gif)](javascript:rollText(1); "下一条")
 
  
 
@@ -996,6 +996,6 @@
 声明：评论内容只代表网友观点，与本站立场无关！带有钻石标志的主机商为本站广告商，请注意分辨。  
 广告联系QQ:42503264 注明：虚拟主机评测  
 Powered by：AnyCms 3.0 Dev [鲁ICP备11015305号](https://beian.miit.gov.cn)  
-![](/images/company.gif)
+![](http://www.adminxy.comhttp://www.adminxy.comhttp://www.adminxy.com/images/company.gif)
 
 document.getElementById("bdshell\_js").src = "http://bdimg.share.baidu.com/static/js/shell\_v2.js?t=" + new Date().getHours();
